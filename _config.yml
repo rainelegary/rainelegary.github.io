@@ -21,10 +21,8 @@
 title: Raine Legary
 email: raine.legary@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website! This is its description, so... 
-  I guess I'll begin by describing it as the most beautiful 
-  place on the internet known to mankind.
-baseurl: "/home" # the subpath of your site, e.g. /blog
+  Welcome to my personal website! It is a portfolio of my software development projects and a few cool algorithm visualizations.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 github_username:  rainelegary

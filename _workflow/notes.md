@@ -10,3 +10,4 @@ test site locally:
     $ bundle exec jekyll serve
     - go to http://127.0.0.1:4000/
 
+Jekyll requires blog post files to be named according to the following format: `YYYY-MM-DD-title.MARKUP`

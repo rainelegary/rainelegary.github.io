@@ -1,0 +1,8 @@
+.profile-image {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    border-radius: 50%; /* To make the image circular */
+}
