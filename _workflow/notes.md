@@ -4,6 +4,7 @@ every so often, run the command:
 
 github pages and jekyll documentation:
     https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll
+    https://jekyllrb.com/docs/step-by-step/01-setup/
 
 
 test site locally:

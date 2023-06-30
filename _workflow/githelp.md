@@ -1,4 +1,4 @@
-## synchronize with remote repo
+## synchronize local and remote repo
 git remote add origin <url>
 
 ## commit and push changes
